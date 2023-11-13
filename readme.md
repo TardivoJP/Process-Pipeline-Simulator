@@ -20,7 +20,9 @@ _Manual input screen_
 Meanwhile the file method allows more flexibility and quicker iteration when testing:
 
 _File input screen_
+
 ![Application file input screen](https://i.imgur.com/eXuq6pW.png)
+
 ![Application file input screen](https://i.imgur.com/tALrxF6.png)
 
 Ultimately the input method is up to the user, what really matters are the results, here are two example outputs using the different approaches for building the pipeline with the same inputs:
