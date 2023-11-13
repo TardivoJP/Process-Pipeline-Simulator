@@ -10,11 +10,13 @@ For the purpuses of the educational simulation, we'll establish two different me
 The application features two possible input methods, manual and file:
 
 _Welcome screen_
+
 ![Application welcome screen](https://i.imgur.com/Ay4CGps.png)
 
 The manual method allows for more granular inputs, perfect for someone who's trying to play with a smaller set of:
 
 _Manual input screen_
+
 ![Application manual input screen](https://i.imgur.com/atdlEZW.png)
 
 Meanwhile the file method allows more flexibility and quicker iteration when testing:
@@ -28,8 +30,11 @@ _File input screen_
 Ultimately the input method is up to the user, what really matters are the results, here are two example outputs using the different approaches for building the pipeline with the same inputs:
 
 _Simple logic_
+
 ![Application simple logic log example](https://i.imgur.com/9BGFasN.png)
+
 _No overlap logic_
+
 ![Application no overlap logic log example](https://i.imgur.com/vxLuChN.png)
 
 
